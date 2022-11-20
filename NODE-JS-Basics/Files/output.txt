@@ -1,0 +1,5 @@
+This is a sample text file which we are going to read using NODE JS.
+
+The content of this file will be appended to the content of input.txt and will be written in output.txt file.
+
+Date created Sun Sep 04 2022 10:00:39 GMT+0530 (India Standard Time)
