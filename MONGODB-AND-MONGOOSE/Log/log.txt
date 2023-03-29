@@ -1,0 +1,4 @@
+A new movie document with name Test 1 has been created by MANOJJHA
+A new movie document with name Test 2 has been created by MANOJJHA
+A new movie document with name Sample Movie has been created by MANOJJHA
+Query took 249 milliseconds to fetch the documents.Query took 239 milliseconds to fetch the documents.Query took 236 milliseconds to fetch the documents.Query took 246 milliseconds to fetch the documents.Query took 4555 milliseconds to fetch the documents.Query took 236 milliseconds to fetch the documents.A new movie document with name Test Movie 1 has been created by MANOJJHA
