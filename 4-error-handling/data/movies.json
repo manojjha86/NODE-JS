@@ -1,0 +1,183 @@
+[
+    {
+	  "name": "Riddick",
+	  "description": "Left for dead on a sun-scorched planet, Riddick finds himself up against an alien race of predators. Activating an emergency beacon alerts two ships: one carrying a new breed of mercenary, the other captained by a man from Riddick's past.",
+	  "duration": 119,
+	  "ratings": 6.8,
+	  "totalRating": 329,
+	  "releaseYear": 2013,
+	  "releaseDate": "2013-09-04T00:00:00Z",
+	  "genres": [
+	  	  "Action",
+		  "Sci-Fi",
+		  "Thriller"
+      ],
+	  "directors": [ "David Twohy" ],
+	  "coverImage": "Riddick-2013.jpg",
+	  "actors": [
+	  	  "Vin Diesel",
+		  "Karl Urban",
+		  "Katee Sackhoff"
+	  ],
+	  "price": 50
+	},
+    {
+      "releaseYear": 2013,
+      "name": "We're the Millers",
+      "directors": [ "Rawson Marshall Thurber" ],
+      "releaseDate": "2013-08-03T00:00:00Z",
+      "ratings": 7.2,
+	  "totalRating": 230,
+      "genres": [
+        "Comedy",
+        "Crime"
+      ],
+      "coverImage": "we-are-the-millers-2013.jpg",
+      "description": "A veteran pot dealer creates a fake family as part of his plan to move a huge shipment of weed into the U.S. from Mexico.",
+      "duration": 110,
+      "actors": [
+        "Jason Sudeikis",
+        "Jennifer Aniston",
+        "Emma Roberts"
+      ],
+      "price": 47
+    },
+    {
+      "releaseYear": 2014,
+      "name": "Divergent",
+      "directors": [ "Neil Burger" ],
+	  "releaseDate": "2014-03-20T00:00:00Z",
+	  "ratings": 6.4,
+	  "totalRating": 164,
+	  "genres": [
+		"Action",
+		"Adventure",
+		"Romance",
+		"Sci-Fi"
+      ],
+	  "coverImage": "Divergent-2014.jpg",
+	  "description": "Beatrice Prior, a teenager with a special mind, finds her life threatened when an authoritarian leader seeks to exterminate her kind in her effort to seize control of their divided society.",
+	  "duration": 117,
+	  "actors": [
+		"Shailene Woodley",
+		"Kate Winslet",
+		"Zoe Kravitz"
+	  ],
+	  "price": 52
+    },
+    {
+      "releaseYear": 2013,
+      "name": "Elysium",
+      "directors": [ "Neill Blomkamp" ],
+      "releaseDate": "2013-08-07T00:00:00Z",
+      "ratings": 7,
+	  "totalRating": 436,
+      "genres": [
+        "Action",
+        "Drama",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "coverImage": "Elysium-2013.jpg",
+      "description": "Set in the year 2154, where the very wealthy live on a man-made space station while the rest of the population resides on a ruined Earth, a man takes on a mission that could bring equality to the polarized worlds.",
+      "duration": 109,
+      "actors": [
+        "Matt Damon",
+        "Jodie Foster",
+        "Sharlto Copley"
+      ],
+      "price": 65
+    },
+    {
+      "releaseYear": 2014,
+      "name": "RoboCop",
+      "directors": [ "Jose Padilha" ],
+      "releaseDate": "2014-01-30T00:00:00Z",
+	  "ratings": 7.7,
+	  "totalRating": 310,
+      "genres": [
+        "Action",
+        "Crime",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "coverImage": "RoboCop-2014.jpg",
+      "description": "In 2028 Detroit, when Alex Murphy (Joel Kinnaman) - a loving husband, father and good cop - is critically injured in the line of duty, the multinational conglomerate OmniCorp sees their chance for a part-man, part-robot police officer.",
+      "duration": 110,
+      "actors": [
+        "Joel Kinnaman",
+        "Douglas Urbanski",
+        "Abbie Cornish"
+      ],
+      "price": 40
+    },
+    {
+      "releaseYear": 2014,
+      "name": "Captain America: The Winter Soldier",
+      "directors": [
+        "Anthony Russo",
+        "Joe Russo"
+      ],
+      "releaseDate": "2014-04-02T00:00:00Z",
+	  "ratings": 7.9,
+	  "totalRating": 239,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "coverImage": "captain-america-the-winter-soldier-2014.jpg",
+      "description": "Steve Rogers struggles to embrace his role in the modern world and teams up with Natasha Romanoff, aka Black Widow, to battle a powerful yet shadowy enemy in present-day Washington, D.C.",
+      "duration": 135,
+      "actors": [
+        "Chris Evans",
+        "Frank Grillo",
+        "Sebastian Stan"
+      ],
+      "price": 57
+    },
+    {
+      "releaseYear": 2013,
+      "name": "Behind the Candelabra",
+      "directors": [ "Steven Soderbergh" ],
+      "releaseDate": "2013-05-21T00:00:00Z",
+      "ratings": 7,
+	  "totalRating": 325,
+      "genres": [
+        "Biography",
+        "Drama",
+        "Romance"
+      ],
+      "coverImage": "behind-the-candelabra-2013.jpg",
+      "description": "Based on the autobiographical novel, the tempestuous 6-year relationship between Liberace and his (much younger) lover, Scott Thorson, is recounted.",
+      "duration": 118,
+      "actors": [
+        "Matt Damon",
+        "Scott Bakula",
+        "Eric Zuckerman"
+      ],
+      "price": 59
+    },
+    {
+      "releaseYear": 2012,
+      "name": "The Dark Knight Rises",
+      "directors": [ "Christopher Nolan" ],
+      "releaseDate": "2012-07-16T00:00:00Z",
+      "ratings": 8.6,
+	  "totalRating": 530,
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "coverImage": "the-dark-knight-rises-2012.jpg",
+      "description": "Eight years on, a new evil rises from where the Batman and Commissioner Gordon tried to bury it, causing the Batman to resurface and fight to protect Gotham City... the very city which brands him an enemy.",
+      "duration": 165,
+      "actors": [
+        "Christian Bale",
+        "Tom Hardy",
+        "Anne Hathaway"
+      ],
+      "price": 57
+    }
+  ]
