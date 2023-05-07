@@ -1,0 +1,19 @@
+{
+  "name": "node-js-with-express",
+  "version": "1.0.0",
+  "description": "Learning express js with node",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "Manoj Jha",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^6.9.2",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.20",
+    "validator": "^13.9.0"
+  }
+}
