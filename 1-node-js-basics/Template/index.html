@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Node App</title>
+        <style>
+            *{
+                margin: 0px;
+                padding: 0px;
+                box-sizing: border-box;
+            }
+            body{
+                background-color: #232323;
+            }
+            .main-content{
+                width: 80%;
+                padding: 10px 40px;
+                background-color: #343434;
+                border-radius: 5px;
+                margin: 20px auto;
+                box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+                color: #fff;
+                font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+            }
+            a{
+                color: #fff;
+                text-decoration: none;
+                font-size: 14px;
+                font-weight: bold;
+                margin: 3px 10px;
+            }
+            .navbar{
+                padding: 4px 30px 10px 0px;
+                border-bottom: #232323 3px solid;
+            }
+            .page-content{
+                text-align: center;
+                padding-top: 40px;
+            }
+            .products-list{
+                padding: 10px 10px;
+                margin: 2px auto;
+                color: #fff;
+                border-bottom: #232323 1.5px solid;
+            }
+            .products-detail{
+                display: flex;
+            }
+            .product-image{
+                width: 140px;
+                height: 140px;
+                border-radius: 5px;
+                padding: 10px 10px;
+                margin: 0px 10px;
+            }
+            .product-specs{
+                text-align: left;
+                margin: 0px 10px;
+                
+            }
+            span{
+                color: #FF5733;
+            }
+            p{
+                font-size: 12px;
+                margin: 2px 0px 2px 0px;
+            }
+            h5,h4,h3,h2{
+                margin: 10px 0px 10px 0px;
+            }
+            .product-info{
+                width: 20%;
+                padding: 5px 0px;
+                text-align: left;
+            }
+            .btn{
+                padding: 6px 20px;
+                border-radius: 3px;
+                border: none;
+            }
+            .btn-primary{
+                background-color: #16A085;
+            }
+            .btn-secondary{
+                background-color: #FF5733;
+            }
+			.btn-back{
+				padding: 6px 20px;
+                border-radius: 15px;
+                border: none;
+				background-color:#FF3131;
+				color: white;
+			}
+			.product-page{
+				padding: 20px 50px;
+			}
+			.product-desc{
+				display: flex;
+				width: 100%;
+			}
+			.product-desc-image{
+			    margin-right: 20px;
+			}
+			.product-details-info{
+				margin-left: 40px;
+				text-align: left;
+			}
+			.product-desc-p{
+				margin-top: 4px;
+				font-size: 14px;
+			}
+			.product-desc-details{
+				text-align: left;
+				margin: 20px 0px;
+			}
+			.product-details-desc{
+				margin-top: 60px;
+				font-size: 16px;
+			}
+        </style>
+    </head>
+    <body>
+        <div class="main-content">
+            <div class="navbar">
+                <a href="Home">Home</a>
+                <a href="Products">Products</a>
+                <a href="About">About</a>
+                <a href="Contact">Contact</a>
+            </div>
+            <div class="page-content">
+                {{%CONTENT%}}
+            </div>
+        </div>
+    </body>
+</html>
